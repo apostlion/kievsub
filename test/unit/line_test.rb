@@ -6,3 +6,12 @@ class LineTest < ActiveSupport::TestCase
     assert true
   end
 end
+
+# == Schema Information
+#
+# Table name: lines
+#
+#  id    :integer         not null, primary key
+#  color :string(255)
+#
+

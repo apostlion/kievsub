@@ -6,3 +6,14 @@ class ConnectionTest < ActiveSupport::TestCase
     assert true
   end
 end
+
+# == Schema Information
+#
+# Table name: connections
+#
+#  id             :integer         not null, primary key
+#  source_id      :integer
+#  destination_id :integer
+#  station_id     :integer
+#
+
