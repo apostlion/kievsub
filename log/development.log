@@ -1631,3 +1631,96 @@ Completed in 342ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
 
 
 Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:25:03) [GET]
+
+RCRest::CommunicationError (Communication error: getaddrinfo: nodename nor servname provided, or not known(SocketError)):
+  /Library/Ruby/Gems/1.8/gems/rc-rest-2.2.1/lib/rc_rest.rb:129:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (33.5ms)
+Rendered rescues/_request_and_response (1.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:26:08) [GET]
+
+RCRest::CommunicationError (Communication error: getaddrinfo: nodename nor servname provided, or not known(SocketError)):
+  /Library/Ruby/Gems/1.8/gems/rc-rest-2.2.1/lib/rc_rest.rb:129:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (35.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:27:47) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 833ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:27:54) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 450ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:00) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 403ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:06) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 135ms (View: 1, DB: 1) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:12) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 475ms (View: 1, DB: 1) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:19) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 482ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:25) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 350ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:31) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 230ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:37) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 400ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
