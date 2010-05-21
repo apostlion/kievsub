@@ -1,0 +1,1726 @@
+# Logfile created on Fri May 21 18:56:20 +0300 2010
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 18:58:34) [GET]
+Rendering map/index
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 18:58:38) [GET]
+Rendering map/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:28:10) [GET]
+
+NameError (uninitialized constant MapController::GmapsProxy):
+  app/controllers/map_controller.rb:3:in `index'
+
+Rendered rescues/_trace (83.4ms)
+Rendered rescues/_request_and_response (1.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:28:38) [GET]
+Completed in 5283ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:29:30) [GET]
+Rendering map/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:29:46) [GET]
+Rendering map/index
+Completed in 726ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:30:16) [GET]
+Rendering map/index
+Completed in 2539ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:30:35) [GET]
+Rendering map/index
+Completed in 1838ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:30:49) [GET]
+Completed in 668ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:31:07) [GET]
+Rendering map/index
+Completed in 2374ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:31:49) [GET]
+Rendering map/index
+Completed in 1217ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:32:28) [GET]
+Rendering map/index
+Completed in 1034ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:32:42) [GET]
+Rendering map/index
+Completed in 4883ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:37:50) [GET]
+Rendering map/index
+Completed in 18340ms (View: 40, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:41:40) [GET]
+Rendering map/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#frame (for 127.0.0.1 at 2010-05-21 19:41:40) [GET]
+Completed in 10299ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map/frame]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:42:44) [GET]
+Rendering map/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#frame (for 127.0.0.1 at 2010-05-21 19:42:44) [GET]
+Completed in 6407ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map/frame]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:43:01) [GET]
+Rendering map/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#frame (for 127.0.0.1 at 2010-05-21 19:43:01) [GET]
+Completed in 8889ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map/frame]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:43:21) [GET]
+Rendering map/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#frame (for 127.0.0.1 at 2010-05-21 19:43:21) [GET]
+Completed in 11876ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map/frame]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:52:54) [GET]
+
+NameError (uninitialized constant MapController::GoogleGeocode):
+  app/controllers/map_controller.rb:4:in `index'
+
+Rendered rescues/_trace (33.3ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:54:29) [GET]
+
+ArgumentError (wrong number of arguments (0 for 1)):
+  app/controllers/map_controller.rb:5:in `initialize'
+  app/controllers/map_controller.rb:5:in `new'
+  app/controllers/map_controller.rb:5:in `index'
+
+Rendered rescues/_trace (33.9ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:54:39) [GET]
+Rendering map/index
+Completed in 55ms (View: 53, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 19:59:35) [GET]
+
+NoMethodError (undefined method `full_address' for nil:NilClass):
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (96.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:00:33) [GET]
+
+NoMethodError (undefined method `elements' for #<Nokogiri::XML::Document:0x1043fe2d8>):
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:72:in `check_error'
+  /Library/Ruby/Gems/1.8/gems/rc-rest-4.0/lib/rc_rest.rb:128:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (32.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:03:53) [GET]
+
+NoMethodError (undefined method `elements' for #<Nokogiri::XML::Document:0x104239920>):
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:72:in `check_error'
+  /Library/Ruby/Gems/1.8/gems/rc-rest-4.0/lib/rc_rest.rb:128:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (96.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:04:23) [GET]
+
+NoMethodError (undefined method `elements' for #<Nokogiri::XML::Document:0x104353db0>):
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:72:in `check_error'
+  /Library/Ruby/Gems/1.8/gems/rc-rest-4.0/lib/rc_rest.rb:128:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (33.7ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:05:51) [GET]
+
+NoMethodError (undefined method `elements' for #<Nokogiri::XML::Document:0x10418bfc8>):
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:72:in `check_error'
+  /Library/Ruby/Gems/1.8/gems/rc-rest-4.0/lib/rc_rest.rb:128:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (32.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:05:52) [GET]
+
+NoMethodError (undefined method `elements' for #<Nokogiri::XML::Document:0x10433a3d8>):
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:72:in `check_error'
+  /Library/Ruby/Gems/1.8/gems/rc-rest-4.0/lib/rc_rest.rb:128:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (36.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:17:44) [GET]
+
+NoMethodError (undefined method `elements' for #<Nokogiri::XML::Document:0x10418cd60>):
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:72:in `check_error'
+  /Library/Ruby/Gems/1.8/gems/rc-rest-4.0/lib/rc_rest.rb:128:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (37.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:24:25) [GET]
+
+NoMethodError (undefined method `elements' for #<Nokogiri::XML::Document:0x10431ca90>):
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:72:in `check_error'
+  /Library/Ruby/Gems/1.8/gems/rc-rest-4.0/lib/rc_rest.rb:128:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (32.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:24:27) [GET]
+
+NoMethodError (undefined method `elements' for #<Nokogiri::XML::Document:0x104169388>):
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:72:in `check_error'
+  /Library/Ruby/Gems/1.8/gems/rc-rest-4.0/lib/rc_rest.rb:128:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (35.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:24:28) [GET]
+
+NoMethodError (undefined method `elements' for #<Nokogiri::XML::Document:0x104315290>):
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:72:in `check_error'
+  /Library/Ruby/Gems/1.8/gems/rc-rest-4.0/lib/rc_rest.rb:128:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (31.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:24:36) [GET]
+Completed in 366ms (View: 47, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:24:51) [GET]
+Completed in 403ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:21) [GET]
+Completed in 172ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:22) [GET]
+Completed in 335ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:22) [GET]
+Completed in 352ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:23) [GET]
+Completed in 275ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:24) [GET]
+Completed in 153ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:24) [GET]
+Completed in 384ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:25) [GET]
+Completed in 425ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:38) [GET]
+Completed in 429ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:39) [GET]
+Completed in 377ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:41) [GET]
+Completed in 117ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:49) [GET]
+Completed in 310ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:53) [GET]
+Completed in 223ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:25:57) [GET]
+Completed in 450ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:26:51) [GET]
+Completed in 448ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:26:59) [GET]
+Completed in 495ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:27:02) [GET]
+Completed in 536ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:27:06) [GET]
+
+IndexError (offset 3 too large for struct(size:3)):
+  app/controllers/map_controller.rb:7:in `[]'
+  app/controllers/map_controller.rb:7:in `index'
+
+Rendered rescues/_trace (99.7ms)
+Rendered rescues/_request_and_response (1.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:27:12) [GET]
+Completed in 489ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:29:13) [GET]
+
+NameError (uninitialized constant MapController::GMap):
+  app/controllers/map_controller.rb:8:in `index'
+
+Rendered rescues/_trace (33.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:32:23) [GET]
+Rendering map/index
+Completed in 785ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:32:25) [GET]
+Rendering map/index
+Completed in 337ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:32:51) [GET]
+Rendering map/index
+Completed in 282ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:32:54) [GET]
+Rendering map/index
+Completed in 822ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:33:34) [GET]
+Completed in 588ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:33:52) [GET]
+Rendering map/index
+Completed in 680ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:35:12) [GET]
+Rendering map/index
+Completed in 474ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:37:33) [GET]
+
+NameError (undefined local variable or method `‘' for #<MapController:0x103560dc0>):
+  app/controllers/map_controller.rb:5:in `index'
+
+Rendered rescues/_trace (32.8ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:37:35) [GET]
+
+NameError (undefined local variable or method `‘' for #<MapController:0x10331e440>):
+  app/controllers/map_controller.rb:5:in `index'
+
+Rendered rescues/_trace (99.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:37:45) [GET]
+Rendering map/index
+Completed in 787ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:39:05) [GET]
+Completed in 878ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:45:10) [GET]
+Rendering map/index
+Completed in 372ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:45:30) [GET]
+Rendering map/index
+Completed in 576ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:45:33) [GET]
+Rendering map/index
+Completed in 468ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:46:12) [GET]
+Rendering map/index
+Completed in 333ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:46:28) [GET]
+
+ActionView::MissingTemplate (Missing layout layouts/application.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:46:42) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 456ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:47:36) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 401ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:47:44) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 190ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:47:52) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 509ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:53:32) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 422ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:55:48) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 399ms (View: 110, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:55:49) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 250ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:55:50) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 433ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:55:51) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 328ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:55:52) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 504ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:55:53) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 193ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:55:54) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 193ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:55:55) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 334ms (View: 3, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:56:03) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 616ms (View: 5, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:56:04) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 360ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:56:06) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 346ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:56:07) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 532ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:57:33) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 460ms (View: 30, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:57:38) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 342ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:57:43) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 1886ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:57:49) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 291ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:57:54) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 419ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:57:56) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 142ms (View: 5, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:58:02) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 211ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:58:09) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 348ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:58:15) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 502ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:58:22) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 403ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:58:29) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 297ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:58:35) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 379ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:58:41) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 478ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:58:48) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 368ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:58:54) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 509ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:01) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 490ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:07) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 221ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:13) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 510ms (View: 73, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:19) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 167ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:25) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 235ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:31) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 375ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:38) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 311ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:44) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 530ms (View: 15, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:50) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 487ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 20:59:56) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 393ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:00:02) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 497ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:00:09) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 520ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:00:15) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 445ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:00:21) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 536ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:00:27) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 508ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:00:34) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 973ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:00:40) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 428ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:00:47) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 522ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:00:53) [GET]
+
+ArgumentError (wrong number of arguments (0 for 1)):
+  app/controllers/map_controller.rb:12:in `initialize'
+  app/controllers/map_controller.rb:12:in `new'
+  app/controllers/map_controller.rb:12:in `index'
+
+Rendered rescues/_trace (32.4ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:01:00) [GET]
+
+ArgumentError (wrong number of arguments (0 for 1)):
+  app/controllers/map_controller.rb:12:in `initialize'
+  app/controllers/map_controller.rb:12:in `new'
+  app/controllers/map_controller.rb:12:in `index'
+
+Rendered rescues/_trace (110.4ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:01:13) [GET]
+
+ArgumentError (wrong number of arguments (2 for 1)):
+  app/controllers/map_controller.rb:12:in `overlay_init'
+  app/controllers/map_controller.rb:12:in `index'
+
+Rendered rescues/_trace (32.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:01:25) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 496ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:01:31) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 512ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:01:38) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 574ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:01:44) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 427ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:01:50) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 342ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:01:56) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 612ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:03) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 542ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:09) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 161ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:15) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 357ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:21) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 175ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:27) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 563ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:34) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 395ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:41) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 547ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:47) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 461ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:53) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 395ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:59) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 166ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:05) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 211ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:12) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 459ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:19) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 287ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:25) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 449ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:32) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 465ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:38) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 910ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:45) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 520ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:51) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 392ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:57) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 209ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:03) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 248ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:09) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 412ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:15) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 462ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:22) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 353ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:28) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 220ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:33) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 219ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:39) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 321ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:45) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 353ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:51) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 564ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:09:16) [GET]
+
+RCRest::CommunicationError (Communication error: getaddrinfo: nodename nor servname provided, or not known(SocketError)):
+  /Library/Ruby/Gems/1.8/gems/rc-rest-2.2.1/lib/rc_rest.rb:129:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (32.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:09) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 467ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:16) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 625ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:25) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 1726ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:35) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 614ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:42) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 2432ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:52) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 265ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:13:01) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 554ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:13:10) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 713ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:13:19) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 459ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:13:30) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 1429ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:13:40) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 2232ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:13:51) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 5723ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:14:12) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 1251ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:14:21) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 1854ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:14:31) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 2486ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:14:45) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 363ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:14:56) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 4214ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:15:06) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 483ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:15:13) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 205ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:15:19) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 391ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:15:25) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 411ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:15:32) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 303ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:15:38) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 337ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:15:45) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 420ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:15:53) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 280ms (View: 70, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:15:59) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 267ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:05) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 426ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:11) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 645ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:18) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 462ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:25) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 428ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:31) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 377ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:37) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 406ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:42) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 182ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:44) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 415ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:49) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 501ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:16:56) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 235ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:17:00) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 496ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:17:06) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 449ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:17:15) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 179ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:17:23) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 197ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:17:30) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 220ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:17:36) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 315ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:17:43) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 402ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:17:50) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 370ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:17:56) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 453ms (View: 33, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:18:02) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 171ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:18:08) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 302ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:18:15) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 374ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:18:23) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 510ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:18:29) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 272ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:18:36) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 301ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:18:42) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 510ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:18:49) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 360ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:18:55) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 388ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+  [4;36;1mLine Delete all (0.0ms)[0m   [0;1mSQLite3::SQLException: no such table: lines: DELETE FROM "lines" WHERE 1=1[0m
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:19:02) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 251ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (2.6ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (65.3ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateStations (20100521154404)
+  [4;36;1mSQL (0.7ms)[0m   [0;1mCREATE TABLE "stations" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "order" integer, "line_id" integer, "lat" float, "lng" float) [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20100521154404')[0m
+Migrating to CreateTransitions (20100521154745)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCREATE TABLE "transitions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "source_id" integer, "destination_id" integer, "station_id" integer) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20100521154745')[0m
+Migrating to CreateLines (20100521160414)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCREATE TABLE "lines" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "color" varchar(255)) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20100521160414')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("lines")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("stations")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("transitions")[0m
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:19:08) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 213ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+  [4;36;1mLine Delete all (1.9ms)[0m   [0;1mDELETE FROM "lines" WHERE 1=1[0m
+  [4;35;1mStation Delete all (1.3ms)[0m   [0mDELETE FROM "stations" WHERE 1=1[0m
+  [4;36;1mTransition Delete all (1.7ms)[0m   [0;1mDELETE FROM "transitions" WHERE 1=1[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mLine Create (0.3ms)[0m   [0mINSERT INTO "lines" ("color") VALUES('red')[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mLine Create (0.5ms)[0m   [0;1mINSERT INTO "lines" ("color") VALUES('green')[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mLine Create (0.5ms)[0m   [0mINSERT INTO "lines" ("color") VALUES('blue')[0m
+  [4;36;1mStation Create (0.4ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Akademgorodok', 0, 30.3547847270966, 1, 50.4648530860551)[0m
+  [4;35;1mStation Create (0.5ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Zhitomirskaya', 1, 30.3637754917145, 1, 50.456185712214)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Svyatoshin', 2, 30.3919172286987, 1, 50.4576201390719)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Nivki', 3, 30.4047381877899, 1, 50.4589247466802)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Beresteyskaya', 4, 30.4205632209778, 1, 50.4587266672136)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Shulyavskaya', 5, 30.4452073574066, 1, 50.4548741981646)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Politehnicheskij Institut', 6, 30.4664933681488, 1, 50.4507959768639)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Vokzalnaya', 7, 30.4884123802185, 1, 50.4415794048743)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Universitet', 8, 30.5058467388153, 1, 50.4440733172081)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Teatralnaya', 9, 30.5186462402344, 1, 50.4453714661397)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Khreshyatik', 10, 30.5256199836731, 1, 50.4474279344503)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Arsenalnaya', 11, 30.5453610420227, 1, 50.4443192850031)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Dnepr', 12, 30.5585360527039, 1, 50.4409849461008)[0m
+  [4;35;1mStation Create (0.4ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Gidropark', 13, 30.5769681930542, 1, 50.4461161776105)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Levoberezhnaya', 14, 30.598179101944, 1, 50.4517318811742)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Darnitsa', 15, 30.6138646602631, 1, 50.4564384477219)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Chernigovskaya', 16, 30.6303870677948, 1, 50.4597170562515)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Lesnaya', 17, 30.6444418430328, 1, 50.4643408740798)[0m
+  [4;36;1mStation Create (0.8ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Syrets', 19, 30.4308843612671, 2, 50.4763251803579)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Dorogozhichi', 20, 30.4482221603394, 2, 50.4734027920031)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Lukyanovskaya', 21, 30.4819107055664, 2, 50.4617114319366)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Zolotie Vorota', 22, 30.5135822296143, 2, 50.4482955869623)[0m
+  [4;36;1mStation Create (0.4ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Palatz Sporta', 23, 30.5207490921021, 2, 50.4381833732158)[0m
+  [4;35;1mStation Create (0.4ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Klovskaya', 24, 30.5317354202271, 2, 50.4368986941006)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Pecherskaya', 25, 30.5389881134033, 2, 50.4275222142197)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Druzhby Narodov', 26, 30.5449533462524, 2, 50.4181438773061)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Vydubichi ', 27, 30.5616903305054, 2, 50.4011323596995)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Slavutich', 28, 30.6043910980225, 2, 50.3941837778526)[0m
+  [4;36;1mStation Create (0.5ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Osokorki', 29, 30.6163215637207, 2, 50.39612620054)[0m
+  [4;35;1mStation Create (3.2ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Poznyaki', 30, 30.6337881088257, 2, 50.397877048562)[0m
+  [4;36;1mStation Create (0.5ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Harkovskaya', 31, 30.651683807373, 2, 50.4005579092735)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Virlitsa', 32, 30.6704807281494, 2, 50.4031565580897)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Borisposkaya', 33, 30.683012008667, 2, 50.4033206784946)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Lybedskaya', 34, 30.5246114730835, 3, 50.4128660374296)[0m
+  [4;36;1mStation Create (0.4ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Pa:latz Ukraina', 35, 30.520920753479, 3, 50.4204954714981)[0m
+  [4;35;1mStation Create (1.9ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Respublikanskij Standion', 36, 30.5165863037109, 3, 50.4321423445425)[0m
+  [4;36;1mStation Create (0.4ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Ploshyad Lva Tolstogo', 37, 30.5168008804321, 3, 50.439577347281)[0m
+  [4;35;1mStation Create (0.3ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Majdan Nezalejnosti', 38, 30.5224657058716, 3, 50.4511102241713)[0m
+  [4;36;1mStation Create (0.3ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Pochtovaya Ploshyad', 39, 30.5249547958374, 3, 50.4589247466802)[0m
+  [4;35;1mStation Create (0.5ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Kontraktovaya Ploshyad', 40, 30.5152130126953, 3, 50.4658638347442)[0m
+  [4;36;1mStation Create (0.6ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Tarasa Shevchenko', 41, 30.5050849914551, 3, 50.4732935403373)[0m
+  [4;35;1mStation Create (2.6ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Petrovka', 42, 30.4979181289673, 3, 50.4860469664281)[0m
+  [4;36;1mStation Create (0.5ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Obolon', 43, 30.4995489120483, 3, 50.5019634377854)[0m
+  [4;35;1mStation Create (0.4ms)[0m   [0mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Minskaya', 44, 30.4985189437866, 3, 50.5122257618458)[0m
+  [4;36;1mStation Create (0.4ms)[0m   [0;1mINSERT INTO "stations" ("name", "order", "lng", "line_id", "lat") VALUES('Geroev Dnepra', 45, 30.4989910125732, 3, 50.5224858556293)[0m
+  [4;35;1mTransition Create (0.7ms)[0m   [0mINSERT INTO "transitions" ("destination_id", "source_id", "station_id") VALUES(2, 1, 9)[0m
+  [4;36;1mTransition Create (0.4ms)[0m   [0;1mINSERT INTO "transitions" ("destination_id", "source_id", "station_id") VALUES(3, 1, 10)[0m
+  [4;35;1mTransition Create (0.6ms)[0m   [0mINSERT INTO "transitions" ("destination_id", "source_id", "station_id") VALUES(1, 2, 22)[0m
+  [4;36;1mTransition Create (0.4ms)[0m   [0;1mINSERT INTO "transitions" ("destination_id", "source_id", "station_id") VALUES(3, 2, 23)[0m
+  [4;35;1mTransition Create (0.7ms)[0m   [0mINSERT INTO "transitions" ("destination_id", "source_id", "station_id") VALUES(2, 3, 37)[0m
+  [4;36;1mTransition Create (0.8ms)[0m   [0;1mINSERT INTO "transitions" ("destination_id", "source_id", "station_id") VALUES(1, 3, 38)[0m
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:19:15) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 303ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:19:23) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 804ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:19:30) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 642ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:19:42) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 3870ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:19:54) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 704ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:20:01) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 410ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:20:07) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 730ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:20:14) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 180ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:20:21) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 172ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:20:27) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 605ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:20:34) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 825ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:20:41) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 260ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:20:49) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 254ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:20:56) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 336ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:21:04) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 494ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:21:11) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 412ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:21:17) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 341ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:21:24) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 377ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:21:30) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 247ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:21:36) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 174ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:21:43) [GET]
+
+NameError (uninitialized constant MapController::Line):
+  app/controllers/map_controller.rb:8:in `index'
+
+Rendered rescues/_trace (94.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:21:59) [GET]
+
+NameError (uninitialized constant MapController::Line):
+  app/controllers/map_controller.rb:8:in `index'
+
+Rendered rescues/_trace (30.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:22:51) [GET]
+
+NameError (uninitialized constant MapController::Line):
+  app/controllers/map_controller.rb:8:in `index'
+
+Rendered rescues/_trace (101.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:24:25) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 580ms (View: 50, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:24:31) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 373ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:24:37) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 505ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:24:44) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.5ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 287ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:24:50) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 282ms (View: 1, DB: 1) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:24:56) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 342ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:25:03) [GET]
+
+RCRest::CommunicationError (Communication error: getaddrinfo: nodename nor servname provided, or not known(SocketError)):
+  /Library/Ruby/Gems/1.8/gems/rc-rest-2.2.1/lib/rc_rest.rb:129:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (33.5ms)
+Rendered rescues/_request_and_response (1.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:26:08) [GET]
+
+RCRest::CommunicationError (Communication error: getaddrinfo: nodename nor servname provided, or not known(SocketError)):
+  /Library/Ruby/Gems/1.8/gems/rc-rest-2.2.1/lib/rc_rest.rb:129:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (35.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:27:47) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 833ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:27:54) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 450ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:00) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 403ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:06) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 135ms (View: 1, DB: 1) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:12) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 475ms (View: 1, DB: 1) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:19) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 482ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:25) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 350ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:31) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.4ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 230ms (View: 1, DB: 2) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:28:37) [GET]
+  [4;36;1mLine Load (0.2ms)[0m   [0;1mSELECT * FROM "lines" WHERE ("lines"."color" = 'red') LIMIT 1[0m
+  [4;35;1mStation Load (1.3ms)[0m   [0mSELECT * FROM "stations" WHERE ("stations".line_id = 1) [0m
+Rendering template within layouts/application
+Rendering map/index
+Completed in 400ms (View: 1, DB: 2) | 200 OK [http://localhost/map]

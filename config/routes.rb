@@ -1,4 +1,7 @@
 ActionController::Routing::Routes.draw do |map|
+  
+  map.map '/map', :controller => 'map', :action => 'index'
+  map.connect "/frame", :controller => 'map', :action => 'frame'
   # The priority is based upon order of creation: first created -> highest priority.
 
   # Sample of regular route:

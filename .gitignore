@@ -1,2 +1,3 @@
 lib
 log
+db/development.sqlite3

@@ -11,12 +11,6 @@
 
 ActiveRecord::Schema.define(:version => 20100521160414) do
 
-  create_table "transitions", :force => true do |t|
-    t.integer "source_id"
-    t.integer "destination_id"
-    t.integer "station_id"
-  end
-
   create_table "lines", :force => true do |t|
     t.string "color"
   end
@@ -27,6 +21,12 @@ ActiveRecord::Schema.define(:version => 20100521160414) do
     t.integer "line_id"
     t.float   "lat"
     t.float   "lng"
+  end
+
+  create_table "transitions", :force => true do |t|
+    t.integer "source_id"
+    t.integer "destination_id"
+    t.integer "station_id"
   end
 
 end
