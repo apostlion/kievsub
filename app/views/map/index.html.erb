@@ -1,0 +1,18 @@
+<% content_for :head do %>
+	<%= GMap.header %>
+	<%= @map.to_html %>
+<% end %>
+
+<h1>Map#index</h1>
+<p>Find me in app/views/map/index.html.erb</p>
+
+<%= @map.div(:width => 493, :height => 300) %>
+
+<% javascript_tag do %>
+	function timedRefresh(timeoutPeriod) {
+		setTimeout("location.reload(true);",timeoutPeriod);
+	};
+	
+	timedRefresh(5000);
+	
+<% end %>
