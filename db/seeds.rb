@@ -6,6 +6,10 @@
 #   cities = City.create([{ :name => 'Chicago' }, { :name => 'Copenhagen' }])
 #   Major.create(:name => 'Daley', :city => cities.first)
 
+Line.delete_all
+Station.delete_all
+Transition.delete_all
+
 lines = {
   'red'   => Line.create(:id => 1, :color => 'red'),
   'green' => Line.create(:id => 2, :color => 'green'),
@@ -66,5 +70,12 @@ stations = [
     :lat  => station[:coordinates][:lat],
     :lng  => station[:coordinates][:lng]
   )
+end
 
+stations.select{|s| s.has_key?(:connected_to)}.each do |station|
+  Transition.create(
+    :station_id => station[:id],
+    :source_id => lines[station[:color]].id,
+    :destination_id => lines[stations.find{|s| s[:id] == station[:connected_to]}[:color]].id
+  )
 end
