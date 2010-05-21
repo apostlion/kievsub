@@ -61,6 +61,7 @@ stations = [
 ].each do |station|
   Station.create(
     :name => station[:name], 
+    :order => station[:id],
     :line => lines[station[:color]],
     :lat  => station[:coordinates][:lat],
     :lng  => station[:coordinates][:lng]
