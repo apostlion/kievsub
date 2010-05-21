@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"> 
+<html> 
+  <head> 
+    <title>Kievsub Simulator</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <meta name="description" content="Dissertation help for thesis papers."> 
+    <style type="text/css" media="screen"> 
+    body {margin-top:10px;margin-left:auto;margin-right:auto;padding:0;width:800px;font:16px "Trebuchet MS",serif;color:#444;}
+    #guttwa {color:#FFF;padding:10px;background:#444}
+    p {padding:0 0 0 50px}
+    h1 {border-bottom:1px dotted #444}
+    a {color:#AAA;text-decoration:none;border-bottom:1px dotted #AAA}
+    </style> 
+  </head> 
+  <body> 
+  <div id="guttwa"> 
+  <h1>Distance Calculator</h1> 
+  <p> 
+    Please select station #1 and station #2 to see the distance between them</p> 
+  </div> 
+  <div id="stuff"> 
+  <h1>Select two stations</h1> 
+    
+  <% form_tag '/distance' do -%>
+    <%= select_tag "source", options_for_select(@station_names, :selected => @source_id)  %>
+    <%= select_tag "destination", options_for_select(@station_names, :selected => @destination_id) %>
+    <%= submit_tag 'Try' %>
+  <% end -%>
+   
+  <h1>Distance table</h1> 
+  <p>...</p> 
+  </div> 
+  </body> 
+</html>
