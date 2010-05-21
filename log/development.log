@@ -868,3 +868,171 @@ Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:47) [GET]
 Rendering template within layouts/application
 Rendering map/index
 Completed in 461ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:53) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 395ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:02:59) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 166ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:05) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 211ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:12) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 459ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:19) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 287ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:25) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 449ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:32) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 465ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:38) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 910ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:45) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 520ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:51) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 392ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:03:57) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 209ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:03) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 248ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:09) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 412ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:15) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 462ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:22) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 353ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:28) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 220ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:33) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 219ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:39) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 321ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:45) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 353ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:04:51) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 564ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:09:16) [GET]
+
+RCRest::CommunicationError (Communication error: getaddrinfo: nodename nor servname provided, or not known(SocketError)):
+  /Library/Ruby/Gems/1.8/gems/rc-rest-2.2.1/lib/rc_rest.rb:129:in `get'
+  /Library/Ruby/Gems/1.8/gems/google-geocode-1.2.1/lib/google_geocode.rb:51:in `locate'
+  app/controllers/map_controller.rb:6:in `index'
+
+Rendered rescues/_trace (32.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:09) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 467ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:16) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 625ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:25) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 1726ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:35) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 614ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:42) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 2432ms (View: 2, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2010-05-21 21:12:52) [GET]
+Rendering template within layouts/application
+Rendering map/index
+Completed in 265ms (View: 1, DB: 0) | 200 OK [http://localhost/map]

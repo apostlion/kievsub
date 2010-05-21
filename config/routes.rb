@@ -44,3 +44,8 @@ ActionController::Routing::Routes.draw do |map|
   map.connect ':controller/:action/:id'
   map.connect ':controller/:action/:id.:format'
 end
+#== Route Map
+# Generated on 21 May 2010 19:55
+#
+#   /:controller/:action/:id           
+#   /:controller/:action/:id(.:format) 
