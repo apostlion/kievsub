@@ -4,9 +4,10 @@ class Transition < ActiveRecord::Base
   belongs_to :station
 end
 
+
 # == Schema Information
 #
-# Table name: connections
+# Table name: transitions
 #
 #  id             :integer         not null, primary key
 #  source_id      :integer
