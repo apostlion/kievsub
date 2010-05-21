@@ -11,7 +11,7 @@
 
 ActiveRecord::Schema.define(:version => 20100521160414) do
 
-  create_table "connections", :force => true do |t|
+  create_table "transitions", :force => true do |t|
     t.integer "source_id"
     t.integer "destination_id"
     t.integer "station_id"
