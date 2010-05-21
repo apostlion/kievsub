@@ -1,5 +1,5 @@
 class Station < ActiveRecord::Base
-  has_one :connection
+  has_one :transition
   belongs_to :line
   
   def distance_to(station)
@@ -11,7 +11,7 @@ class Station < ActiveRecord::Base
     elsif same_line
       min = [self.order, station.order].min
       max = [self.order, station.order].max
-      (min...max).inject(0){|s,v| s + self.line.st[v]).geodistance_to(self.line.st[v+1])}
+      (min...max).inject(0){|s,v| s + self.line.st[v].geodistance_to(self.line.st[v+1])}
     else
       to_station = self.line.find_connection_by_destination_id(station.line.id).station
       from_station = station.line.find_connection_by_source_id(self.line.id).station
